@@ -1,0 +1,27 @@
+{
+  "name": "node.js-and-socket.io",
+  "version": "1.0.0",
+  "description": "Integrantes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixroldan705/Node.js-and-Socket.io.git"
+  },
+  "keywords": [],
+  "author": "Danie, Oscar y Mateu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixroldan705/Node.js-and-Socket.io/issues"
+  },
+  "homepage": "https://github.com/felixroldan705/Node.js-and-Socket.io#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  }
+}
